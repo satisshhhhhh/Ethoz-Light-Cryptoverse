@@ -16473,7 +16473,7 @@
     border-radius: 5px;
     padding: 8px 18px;
     margin-right: 5px;
-    background-color: #cfcfcf;
+    background-color: #eeeeee;
     border: #999999;
 }
 .explore-artwork .container-fluid .categories-main .categories-outr .categories-inr .select-styled {
@@ -16498,7 +16498,7 @@
     margin: 0px 2px;
     padding: 2px 15px;
     border-radius: 10px;
-    background-color: #cfcfcf;
+    background-color: #eeeeee;
 }
 
 @media (max-width: 1085px) {
