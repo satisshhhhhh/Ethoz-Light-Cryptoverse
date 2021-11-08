@@ -304,6 +304,10 @@
     margin: 32px 0 12px 0;
 }
 
+.change-theme {
+    margin-right: 15px;
+}
+
 .overlay-content-otr .modal-content-custom .overlay-content .action-otr .btn-create {
     margin-bottom: 16px;
 }
@@ -3520,7 +3524,7 @@
 }
 
 .footer-main .container-fluid .row-custom .col-log-otr .col-logo-inr .logo-otr .logo-img {
-    width: 100px;
+    width: 150px;
 }
 
 .footer-main .container-fluid .row-custom .col-log-otr .col-logo-inr .icon-ul {
@@ -15655,7 +15659,7 @@
 }
 
 .navbar-main-2 .container-fluid .navbar-inr-2 .burger-menu .logo-otr .logo-img {
-    width: 100px;
+    width: 150px;
 }
 
 .navbar-main-2 .container-fluid .navbar-inr-2 .input-main {
