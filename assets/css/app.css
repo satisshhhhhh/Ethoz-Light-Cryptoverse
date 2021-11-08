@@ -16455,43 +16455,43 @@
 
 /* Categories and Filter Tabs Start */
 
-.container-fluid .categories-main {
+.explore-artwork .container-fluid .categories-main {
 }
 
-.container-fluid .categories-main .categories-outr {
+.explore-artwork .container-fluid .categories-main .categories-outr {
     margin-top: 30px;
 }
 
-.container-fluid .categories-main .categories-outr {
+.explore-artwork .container-fluid .categories-main .categories-outr {
     width: 100%;
 }
 
-.container-fluid .categories-main .categories-outr .categories-inr {
+.explore-artwork .container-fluid .categories-main .categories-outr .categories-inr {
 }
 
-.container-fluid .categories-main .categories-outr .categories-inr select {
+.explore-artwork .container-fluid .categories-main .categories-outr .categories-inr select {
     border-radius: 5px;
     padding: 8px 18px;
     margin-right: 5px;
     background-color: #cfcfcf;
     border: #999999;
 }
-.container-fluid .categories-main .categories-outr .categories-inr .select-styled {
+.explore-artwork .container-fluid .categories-main .categories-outr .categories-inr .select-styled {
     display: none;
 }
 
-.container-fluid .categories-main .categories-outr .categories-inr .tabs {
+.explore-artwork .container-fluid .categories-main .categories-outr .categories-inr .tabs {
     display: flex;
     justify-content: space-between;
     height: 40px;
     flex-wrap: nowrap;
     overflow-x: scroll;
 }
-.container-fluid .categories-main .categories-outr .categories-inr .tabs::-webkit-scrollbar {
+.explore-artwork .container-fluid .categories-main .categories-outr .categories-inr .tabs::-webkit-scrollbar {
     display: none;
 }
 
-.container-fluid .categories-main .categories-outr .categories-inr .tabs .tab-link {
+.explore-artwork .container-fluid .categories-main .categories-outr .categories-inr .tabs .tab-link {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -16502,17 +16502,17 @@
 }
 
 @media (max-width: 1085px) {
-    .container-fluid .categories-main .categories-outr .categories-inr .tabs .tab-link {
+    .explore-artwork .container-fluid .categories-main .categories-outr .categories-inr .tabs .tab-link {
         margin: 0px 5px;
     }
 }
 
-.container-fluid .categories-main .categories-outr .categories-inr .tabs .tab-link img {
+.explore-artwork .container-fluid .categories-main .categories-outr .categories-inr .tabs .tab-link img {
     width: 60%;
     height: 60%;
 }
 
-.container-fluid .categories-main .categories-outr .categories-inr .tabs .tab-link p {
+.explore-artwork .container-fluid .categories-main .categories-outr .categories-inr .tabs .tab-link p {
     margin-left: 10px;
 }
 
