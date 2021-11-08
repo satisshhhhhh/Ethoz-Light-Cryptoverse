@@ -6118,7 +6118,7 @@
 
 .explore-artwork-home2 {
     overflow: hidden;
-    padding: 0 0 128px 0;
+    padding: 0 0 0px 0;
 }
 
 @media (max-width: 767px) {
@@ -16435,12 +16435,12 @@
 
 .explore-artwork {
     overflow: hidden;
-    padding: 96px 0 128px 0;
+    padding: 0 0 0 0;
 }
 
 @media (max-width: 767px) {
     .explore-artwork {
-        padding: 56px 0 80px 0 !important;
+        padding: 0 0 0 0 !important;
     }
 }
 
@@ -16452,6 +16452,71 @@
 .explore-artwork .container-fluid .explore-artwork-inr .heading-otr .head-otr .heading {
     color: #000000;
 }
+
+/* Categories and Filter Tabs Start */
+
+.container-fluid .categories-main {
+}
+
+.container-fluid .categories-main .categories-outr {
+    margin-top: 30px;
+}
+
+.container-fluid .categories-main .categories-outr {
+    width: 100%;
+}
+
+.container-fluid .categories-main .categories-outr .categories-inr {
+}
+
+.container-fluid .categories-main .categories-outr .categories-inr select {
+    border-radius: 5px;
+    padding: 8px 18px;
+    margin-right: 5px;
+    background-color: #cfcfcf;
+    border: #999999;
+}
+.container-fluid .categories-main .categories-outr .categories-inr .select-styled {
+    display: none;
+}
+
+.container-fluid .categories-main .categories-outr .categories-inr .tabs {
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+    flex-wrap: nowrap;
+    overflow-x: scroll;
+}
+.container-fluid .categories-main .categories-outr .categories-inr .tabs::-webkit-scrollbar {
+    display: none;
+}
+
+.container-fluid .categories-main .categories-outr .categories-inr .tabs .tab-link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 2px;
+    padding: 2px 15px;
+    border-radius: 10px;
+    background-color: #cfcfcf;
+}
+
+@media (max-width: 1085px) {
+    .container-fluid .categories-main .categories-outr .categories-inr .tabs .tab-link {
+        margin: 0px 5px;
+    }
+}
+
+.container-fluid .categories-main .categories-outr .categories-inr .tabs .tab-link img {
+    width: 60%;
+    height: 60%;
+}
+
+.container-fluid .categories-main .categories-outr .categories-inr .tabs .tab-link p {
+    margin-left: 10px;
+}
+
+/* Categories and Filter Tabs End */
 
 @media (max-width: 1100px) {
     .explore-artwork .container-fluid .explore-artwork-inr .teb-main {
